@@ -20,7 +20,7 @@ also the UI followed is very basic.
 ## Features
 - book search by name and author 
 - book details with cover images
-- Ratings display (demo-based where API data is unavailable)
+- Ratings display (where API data is available)
 - can also mark books as read and unread
 
 
