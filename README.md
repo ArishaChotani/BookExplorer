@@ -1,4 +1,4 @@
-### Book Explorer App 
+# Book Explorer App 
 
 ## project setup 
 using this command : npx create-expo-app BookExplorer --template expo-template-blank-typescript
@@ -27,7 +27,7 @@ also the UI followed is very basic.
 ## APIs Used
 ### Open Library API
 used to fetch book information such as book name, authors, year of publish, and cover image.
-## google books api
+### google books api
 used to fetch and display description, ratings and reviews
 
 ## Error Handling
