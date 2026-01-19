@@ -1,4 +1,4 @@
-##Book Explorer App 
+### Book Explorer App 
 
 ## project setup 
 using this command : npx create-expo-app BookExplorer --template expo-template-blank-typescript
